@@ -63,7 +63,7 @@ st.session_state.messages = context
 
 
 # Accept user input
-if prompt := st.chat_input("What is up?"):
+if prompt := st.chat_input("Please enter your description here to generate SQL query."):
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
     # Display user message in chat message container
