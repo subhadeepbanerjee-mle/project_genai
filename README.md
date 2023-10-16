@@ -50,8 +50,6 @@ To use the application, follow these steps:
 
 ## License
 
-This project is available under the [MIT License](LICENSE).
-
 Please refer to OpenAI's terms of service for any specific licensing or usage restrictions related to the GPT-3.5 Turbo model.
 
 ## Acknowledgments
